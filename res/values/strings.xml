@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bill_amt_hint">Bill Amount</string>
+    <string name="save_tip_label">Save</string>
+    <string name="cancel_tip_label">Cancel</string>
+    <string name="tip_percent_label">Tip Percentage</string>
+    <string name="add_tip_label">Add Tip</string>
+    <string name="tip_delete_label">Delete</string>
+    <string name="tip_edit_label">Edit</string>
+    <string name="split_between_label">Split Between</string>
+    <string name="tip_amt_default_text">0.0</string>
+
+</resources>
